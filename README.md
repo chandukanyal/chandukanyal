@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Chandramohan Singh Kanyal
-**A passionate Full Stack Developer || Cyber Security || Data Analyst**
+**A passionate  Cyber Security 
 
 Email Me 👉 ✉️ **chandukanyal117@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** Full Stack Delepement
+- 🌱 **I’m currently learning:** Cyber Security
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** chandukanyal117@gmail.com
 - 😄 **Pronouns:** Chandu Kanyal
